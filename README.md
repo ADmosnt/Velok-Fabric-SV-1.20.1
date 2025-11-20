@@ -4,7 +4,7 @@
 
 - [En caso de no tener Java](#en-caso-de-no-tener-java)
 - [En caso de tener Java](#en-caso-de-tener-java)
-- [En caso de no tener idea de q version de java tienen o de que quieran saber siquiera si tienen java](#y-si-no-se-si-tengo-java-o-no-se-que-version-de-java-tengo?)
+- [En caso de no tener idea de q version de java tienen o de que quieran saber siquiera si tienen java](#y-si-no-se-si-tengo-java-o-no-se-que-version-de-java-tengo)
 - [En caso de tener Java pero no es java 21, o es superior a java 21](#en-caso-de-tener-java-pero-no-es-java-21-o-es-superior-a-java-21)
 - [Para configurar la ram en el Legacy Launcher](#para-configurar-la-ram-en-el-legacy-launcher)
 - [En caso de no tener Launcher de Minecraft ya](#en-caso-de-no-tener-launcher-de-minecraft-ya)
