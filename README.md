@@ -18,6 +18,8 @@ Intento de explicacion de como instalar minecraft y el pack de mods?
 
 Si tienen el launcher premium de minecraft leanse como instalar fabric
 
+- [Aca, leanse esta vaina](#en-caso-de-ya-tener-launcher-de-minecraft-pero-no-tener-fabric)
+
 ---
 
 
