@@ -7,11 +7,11 @@ Si tienen el launcher premium de minecraft leanse como instalar fabric
 
 Si no tienen java esta chistoso pq mc no sirve sin java asi q aca en el repo tambien subi un instalador de java 21 q es lo q usa nuestro fabric y nuestro pack de mods
 
-(assets/java.png)
+![](assets/java.png)
 
 Es un asistente de instalacion normal, denle a siguiente o a next todo el rato y ya hasta q acabe
 
-(assets/license.png)
+![](assets/license.png)
 
 lo unico q no los va a dejar continuar seria la segunda pestaña del instalador q es donde tienen q aceptar la licencia, luego de eso ahi si le dan next o siguiente a todo hasta q les diga instalar y ya
 
@@ -23,21 +23,21 @@ si quieren saber q version de java tienen pq saben q si tienen java pero no se a
 
 presionen las teclas windows + r al mismo tiempo
 
-(assets/winr.png)
+![](assets/winr.png)
 
 se les va a abrir un menu q ni la menor idea de como se llama
 
-(assets/menu.png)
+![](assets/menu.png)
 
 ahi escriben cmd, literalmente cmd, luego le dan a la tecla enter
 
 osea, no c, hay muchos tipos de teclas enter
 
-(assets/enter.png)
+![](assets/enter.png)
 
 y les va a abrir el cmd
 
-(assets/cmd.png)
+![](assets/cmd.png)
 
 y ahi solo escriben java -version y ya, les sale la version de java
 
@@ -49,11 +49,11 @@ y por desgracia para el q este leyendo esto si no usan el Legacy launcher pues f
 
 pero si usan el legacy launcher es asi
 
-(assets/javaver.png)
+![](assets/javaver.png)
 
 se selecciona la version literalmente mas arriba de donde se configura la ram
 
-(assets/select.png)
+![](assets/select.png)
 
 solo denle al select q esta a la izquierda del boton configurar
 
@@ -71,15 +71,15 @@ y si tienen una version superior a java 21 desde un principio pues no tienen q h
 
 Independientemente de q Launcher usen, tienen q configurar la ram con la q van a abrir el juego, por q por defecto creo q usa 1gb y eso es un chiste para jugar con mods. Y sin ellos la verdad
 
-(assets/burgermenu.png)
+![](assets/burgermenu.png)
 
 En el Legacy Launcher para cambiar la cantidad de ram que se usa dentro del juego tienen q darle al boton abajo a la derecha q tienen tres lineas y darle a preferencias
 
-(assets/preferences.png)
+![](assets/preferences.png)
 
 Y dentro de preferencias bajan un poco y ahi esta para configurar la ram
 
-(assets/ram.png)
+![](assets/ram.png)
 
 A mira, salen 4gb por defecto no sabia. Bueno el chiste es q tienen q probar como les corre, si quieren con eso por defecto y si les va lag lo cambian y le ponen mas y ya no c 
 
@@ -93,28 +93,28 @@ A mira, salen 4gb por defecto no sabia. Bueno el chiste es q tienen q probar com
 
 Si instalan el Legacy lo primero q vean cuando lo abran sera esto
 
-(assets/Login.png) 
+![](assets/Login.png) 
 
 Se les va a pedir q creen una cuenta
 
-(assets/CA.png)
+![](assets/CA.png)
 
 Y cuando entren a la seccion de administracion o creacion de cuentas
 
-(assets/ADDac.png)
+![](assets/ADDac.png)
 
 Van a poder elegir:
 
 - Si usar una cuenta de minecraft en caso de q la tengan y quieran usar este launcher
 - O usar una cuenta gratis, q seria una cuenta no premium y el proposito de este launcher 
 
-(assets/addUsname.png)
+![](assets/addUsname.png)
 
 Se ponen su nombre, o el de una cuenta premium (en caso de elegir el nombre de una cuenta premium en servidores se deberia ver la skin de la cuenta premium) y agregan la cuenta
 
 Luego de creada la cuenta ya quedaria seleccionada automaticamente, le dan al icono de la casa para volver al inicio y eligen una version para descargar
 
-(assets/version.png)
+![](assets/version.png)
 
 Tienen q bajar hasta q vean Fabric 1.20.1, esa es la version en la q esta creado el servidor y la version con la q corren los mods asi q esa es la version q vamos a usar
 
@@ -128,11 +128,11 @@ Si ya tienen launcher solo se descargan el fabric q esta aca en el repo
 
 Lo abren 
 
-(assets/fabrichm.png)
+![](assets/fabrichm.png)
 
 seleccionan la version 1.20.1
 
-(assets/versionfb.png)
+![](assets/versionfb.png)
 
 y ya le dan a instalar o a install, lo q les salga primero no c, el fabric tarda como 3 segundos en instalarse, cuando termine les va a abisar en su consola, y ya le pueden dar al boton close
 
@@ -146,13 +146,13 @@ Los mods estan tambien aca en el repositorio en la carpeta mods, y tienen q desc
 
 Los descargan, junto al acceso directo, q se llama .minecraft.ink, abren el acceso directo y van a terminar en la raiz de minecraft
 
-(assets/raizmc.png)
+![](assets/raizmc.png)
 
 Una vez esten en la raiz, pasan el comprimido de los mods a la raiz
 
-(assets/modsrz.png)
+![](assets/modsrz.png)
 
-(assets/rightclick.png)
+![](assets/rightclick.png)
 
 Y lo descomprimen, para hacerlo tienen q darle click derecho y buscar la opcion Extraer todo en el menu, y ya se descomprimiria la carpeta de mods dentro del .7z
 
