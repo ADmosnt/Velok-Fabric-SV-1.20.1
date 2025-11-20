@@ -1,7 +1,23 @@
 # Velok-Fabric-SV-1.20.1
-Intento de explicacion de como instalar minecraft y el pack de mods? 
+
+## Intento de indice
+
+- [En caso de no tener Java](#en-caso-de-no-tener-java)
+- [En caso de tener Java](#en-caso-de-tener-java)
+- [En caso de tener Java pero no es java 21, o es superior a java 21](#en-caso-de-tener-java-pero-no-es-java-21-o-es-superior-a-java-21)
+- [Para configurar la ram en el Legacy Launcher](#para-configurar-la-ram-en-el-legacy-launcher)
+- [En caso de no tener Launcher de Minecraft ya](#en-caso-de-no-tener-launcher-de-minecraft-ya)
+- [En caso de ya tener Launcher de Minecraft pero no tener fabric](#en-caso-de-ya-tener-launcher-de-minecraft-pero-no-tener-fabric)
+- [Instalacion del pack de mods](#instalacion-del-pack-de-mods)
+
+---
+
+Intento de explicacion de como instalar minecraft y el pack de mods?  
 
 Si tienen el launcher premium de minecraft leanse como instalar fabric
+
+---
+
 
 # En caso de no tener Java
 
@@ -19,7 +35,7 @@ lo unico q no los va a dejar continuar seria la segunda pestaña del instalador 
 
 Literalmente si tienen java pero no es el 21 tienen q instalar el java 21 asi q lean q psa si no tienen java
 
-si quieren saber q version de java tienen pq saben q si tienen java pero no se acuerda de q version instalaron 
+si quieren saber q version de java tienen pq saben q si tienen java pero no se acuerda de q version instalaron  
 
 presionen las teclas windows + r al mismo tiempo
 
@@ -81,7 +97,7 @@ Y dentro de preferencias bajan un poco y ahi esta para configurar la ram
 
 ![](assets/ram.png)
 
-A mira, salen 4gb por defecto no sabia. Bueno el chiste es q tienen q probar como les corre, si quieren con eso por defecto y si les va lag lo cambian y le ponen mas y ya no c 
+A mira, salen 4gb por defecto no sabia. Bueno el chiste es q tienen q probar como les corre, si quieren con eso por defecto y si les va lag lo cambian y le ponen mas y ya no c  
 
 # En caso de no tener Launcher de Minecraft ya
 
@@ -106,7 +122,7 @@ Y cuando entren a la seccion de administracion o creacion de cuentas
 Van a poder elegir:
 
 - Si usar una cuenta de minecraft en caso de q la tengan y quieran usar este launcher
-- O usar una cuenta gratis, q seria una cuenta no premium y el proposito de este launcher 
+- O usar una cuenta gratis, q seria una cuenta no premium y el proposito de este launcher  
 
 ![](assets/addUsname.png)
 
@@ -126,7 +142,7 @@ Luego de q descargue ya se abriria por si solo el juego, hay q dejar q haga eso 
 
 Si ya tienen launcher solo se descargan el fabric q esta aca en el repo
 
-Lo abren 
+Lo abren  
 
 ![](assets/fabrichm.png)
 
@@ -140,7 +156,7 @@ y despues se pasan al minecraft y ya
 
 # Instalacion del pack de mods
 
-En resources aca en este repositorio hay un acceso directo q lleva a la carpeta raiz de minecraft, q es donde se  tienen que descomprimir el comprimido de los mods 
+En resources aca en este repositorio hay un acceso directo q lleva a la carpeta raiz de minecraft, q es donde se  tienen que descomprimir el comprimido de los mods  
 
 Los mods estan tambien aca en el repositorio en la carpeta mods, y tienen q descargarlos para poder jugar, obviamente
 
@@ -157,4 +173,3 @@ Una vez esten en la raiz, pasan el comprimido de los mods a la raiz
 Y lo descomprimen, para hacerlo tienen q darle click derecho y buscar la opcion Extraer todo en el menu, y ya se descomprimiria la carpeta de mods dentro del .7z
 
 Asi ya querarian los mods instalados
-
