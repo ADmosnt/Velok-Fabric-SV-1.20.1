@@ -4,11 +4,13 @@
 
 - [En caso de no tener Java](#en-caso-de-no-tener-java)
 - [En caso de tener Java](#en-caso-de-tener-java)
+- [En caso de no tener idea de q version de java tienen o de que quieran saber siquiera si tienen java](#y-si-no-se-si-tengo-java-o-no-se-que-version-de-java-tengo?)
 - [En caso de tener Java pero no es java 21, o es superior a java 21](#en-caso-de-tener-java-pero-no-es-java-21-o-es-superior-a-java-21)
 - [Para configurar la ram en el Legacy Launcher](#para-configurar-la-ram-en-el-legacy-launcher)
 - [En caso de no tener Launcher de Minecraft ya](#en-caso-de-no-tener-launcher-de-minecraft-ya)
 - [En caso de ya tener Launcher de Minecraft pero no tener fabric](#en-caso-de-ya-tener-launcher-de-minecraft-pero-no-tener-fabric)
 - [Instalacion del pack de mods](#instalacion-del-pack-de-mods)
+
 
 ---
 
@@ -33,9 +35,13 @@ lo unico q no los va a dejar continuar seria la segunda pestaña del instalador 
 
 # En caso de tener java
 
-Literalmente si tienen java pero no es el 21 tienen q instalar el java 21 asi q lean q psa si no tienen java
+Literalmente si tienen java pero no es el 21 tienen q instalar el java 21 asi q lean q psa si no tienen java, y si saben q tienen java pero no saben q version es leanse q psa si no se si tengo java mas abajo
 
-si quieren saber q version de java tienen pq saben q si tienen java pero no se acuerda de q version instalaron  
+# Y si no se si tengo java o no se que version de java tengo? 
+
+si quieren saber q version de java tienen pq saben q si tienen java pero no se acuerdan de q version instalaron o sencillamente quieren saber si tienen java o no hagan esto:
+
+osea esto 
 
 presionen las teclas windows + r al mismo tiempo
 
